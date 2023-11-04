@@ -1,0 +1,27 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "react learning",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riyazm16/namaste_react.git"
+  },
+  "author": "Riyaj mulla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riyazm16/namaste_react/issues"
+  },
+  "homepage": "https://github.com/Riyazm16/namaste_react#readme",
+  "dependencies": {
+    "parcel": "^2.10.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserslist":["last 2 versions"]
+}
