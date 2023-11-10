@@ -1,3 +1,30 @@
 #heading{
     color: red;
 }
+
+nav img{
+    height: 10%;
+    width: 10%;
+}
+
+nav input{
+    margin: 5px 10px 0px 100px;
+}
+nav span{
+    margin: 5px 10px 0px 100px;
+    font-size: 20px;
+}
+
+nav button{
+    background-color: antiquewhite;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+}
+
+nav{
+    border: 1px solid gray;
+    padding:5px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: ghostwhite;
+}
