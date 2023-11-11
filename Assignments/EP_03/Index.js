@@ -59,5 +59,5 @@ const ListOfHeading = () => {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render([Heading, nestedHeader, jsxElem, <ListOfHeading></ListOfHeading>]);
+// root.render([Heading, nestedHeader, jsxElem, <ListOfHeading></ListOfHeading>]);
 root.render(<ListOfHeading></ListOfHeading>);
