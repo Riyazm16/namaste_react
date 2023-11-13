@@ -16,3 +16,7 @@
 - tree shaking- remove unwanted code
 - create diffrent dev and production bundle
 
+
+# React hooks
+- UseState() : manages state variable
+- UseEffect():
