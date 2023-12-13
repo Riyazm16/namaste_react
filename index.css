@@ -82,7 +82,7 @@
   /* Body CSS */
   
   /* search container CSS */
-  .search-container {
+  .search-container, .about-us {
     margin: 100px auto 20px;
     text-align: center;
     max-width: 100%;
