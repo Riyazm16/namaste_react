@@ -20,12 +20,21 @@ const Body = () => {
       respJson?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
         ?.restaurants
     );
+    console.log(11111111);
+    console.log(respJson?.data.cards.card);
+    console.log(
+      respJson?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle
+        ?.restaurants
+    );
+
     setRestaurantList(
-      respJson?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
+      respJson?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle
         ?.restaurants
     );
     console.log(restarurantList);
   };
+
+  console.log(restarurantList);
 
   return restarurantList.length === 0 ? (
     <Shimmer></Shimmer>
